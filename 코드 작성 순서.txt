@@ -1,0 +1,37 @@
+1. print
+1-1 PrintTest
+ 1) PrintTest1
+ 2) PrintTest2
+
+2. variable
+1-1 variableTest
+ 1) Variable.java
+ 2) FormatTest
+ 3) ConstantTest
+
+1-2. castingTest
+ 1) CastingTest1
+ 2) CastingTest2
+ 3) CastingTest3
+
+3.input
+1-1 inputTest
+ 1) InputTest 
+ 2) InputTest2
+
+4.operator
+1-1 operator
+ 1) BitOper
+ 2) OperTest1
+ 3) OperTest2
+
+5.conditional
+1-1 conditional
+ 1) IfTset1
+ 2) IfTest2
+ 3) IfTest3
+ 4) ElseIfTest1
+ 5) ElseIfTest2
+ 6) switch1
+ 7) switch2
+ 8) switch3
