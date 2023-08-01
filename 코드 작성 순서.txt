@@ -35,3 +35,14 @@
  6) switch1
  7) switch2
  8) switch3
+
+6. repetition
+1-1 loop
+1)ForTest1
+ 2)ForTest2
+ 3)WhileTest1
+ 4)WhileTest2
+ 5)DoWhileTest1
+ 6)DoWhileTest2
+ 7)While_DoWhileTest1
+ 8)Infinite
