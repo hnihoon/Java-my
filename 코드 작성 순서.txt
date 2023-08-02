@@ -38,7 +38,7 @@
 
 6. repetition
 1-1 loop
-1)ForTest1
+ 1)ForTest1
  2)ForTest2
  3)WhileTest1
  4)WhileTest2
@@ -46,3 +46,8 @@
  6)DoWhileTest2
  7)While_DoWhileTest1
  8)Infinite
+2-1 scope
+ 1)ScopeTest1
+3-1 multi
+ 1)MultiTest1
+
