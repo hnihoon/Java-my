@@ -51,3 +51,7 @@
 3-1 multi
  1)MultiTest1
 
+7.array
+1-1array
+ 1)ArrayTest1
+ 2)ArrayTest2
