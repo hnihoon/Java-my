@@ -59,3 +59,9 @@
 8.two_dimensions_array
 1-1two_dimensions_array
  1)TwoArrayTest1
+
+9.method
+ 1-1method
+ 1)MethodTest1
+ 2)MethodTest2
+ 3)MethodTest3
