@@ -65,3 +65,12 @@
  1)MethodTest1
  2)MethodTest2
  3)MethodTest3
+
+10.return_void
+  1-1return_void
+1)ReturnTest1
+
+11.object 
+  1-1 object
+1)ObjdectTest1
+2)Bungeoppang
