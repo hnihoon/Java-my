@@ -80,3 +80,16 @@
 1)Variable_Global
 2)Variable_Regional
 3)Variable_this
+
+13. constructor
+ 1-1constructor
+1)ConstructorTest1
+2)ConstructorTest2
+3)ConstructorTest3
+
+14. hiding
+ 1-1 hiding
+1)HidingTest1
+2)HidingTest2
+3)HidingTest3
+4)HidingTest3_Main
