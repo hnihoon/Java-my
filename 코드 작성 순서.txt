@@ -93,3 +93,13 @@
 2)HidingTest2
 3)HidingTest3
 4)HidingTest3_Main
+
+15.Inheritance
+ 1-1 Inheritance
+1)Inheritance_Parent1
+2)Inheritance_Child1
+3)Inheritance_Main1
+4)Inheritance_Parent2
+5)Inheritance_Child2_1
+6)Inheritance_Child2_2
+7)Inheritance_Main2
