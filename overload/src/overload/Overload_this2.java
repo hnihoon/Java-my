@@ -1,18 +1,18 @@
 package overload;
 
-public class Overload_super2 {
+public class Overload_this2 {
 
 	private int seq;
 	private String subject;
 	private String writer;
 	
-	public Overload_super2(int seq, String subject, String writer) {
+	public Overload_this2(int seq, String subject, String writer) {
 		this.seq = seq;
 		this.subject = subject;
 		this.writer = writer;
 	}
 	
-	public Overload_super2(int seq) {
+	public Overload_this2(int seq) {
 //		방법1
 //		this(seq, "제목없음","익명");  
 		
@@ -22,7 +22,7 @@ public class Overload_super2 {
 		this.writer = "익명";
 	}
 	
-	public Overload_super2(int seq, String subject) {
+	public Overload_this2(int seq, String subject) {
 //		방법1
 		this(seq,subject,"익명");
 		
