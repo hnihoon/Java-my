@@ -1,0 +1,8 @@
+package inheritance_casting;
+
+public class Animation extends Video{
+	
+	public void printSubtitle() {
+		System.out.println("자막 지원");
+	}
+}
