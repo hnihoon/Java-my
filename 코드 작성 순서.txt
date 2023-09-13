@@ -126,3 +126,14 @@
 6)Overload_Main3
 7)Overload_super2
 8)Overload_Main4
+
+17.inheritance_casting
+ ①inheritance_casting
+1)CastingTest1
+2)CastingTest2
+3)Animation
+4)Film
+5)Drama
+6)Video
+7)Animation , Film , Drama 3개의 클래스가 Video 클래스를 상속받도록 코드 추가
+8)CastingTest2에 코드 추가
