@@ -137,3 +137,37 @@
 6)Video
 7)Animation , Film , Drama 3개의 클래스가 Video 클래스를 상속받도록 코드 추가
 8)CastingTest2에 코드 추가
+
+18.abstract
+ ①abstractTest
+1)Electronics
+2)Refrigerator
+3)WashingMachine
+
+19.interface
+ ①interfaceTest
+ 1)Pet
+ 2)Cat
+ 3)Puppy
+ 4)Tiger
+ 5)PetAdapter
+ 6)Tiger 코드 수정
+
+ ②ambiguityTest
+ 1)InterA
+ 2)InterB
+ 3)ClassC
+ 4)ClassA
+ 5)ClassB
+
+ ③markerTest
+ 1)Animal
+ 2)Bear
+ 3)Cow
+ 4)Dog
+ 5)Tiger
+ 6)Herbivore
+ 7)Carnivore
+ 8)Lab
+ 
+ 
