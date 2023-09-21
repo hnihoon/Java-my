@@ -169,5 +169,22 @@
  6)Herbivore
  7)Carnivore
  8)Lab
+
+20.anonymous
+ ①anonymousTest
+1)Inter
+2)AnonymousTest
+ ②bbq
+ 1)BBQ
+ 2)Form
+ 3)Road
+
+21.lambda
+ ①lambdaTest
+ 1)LambdaInter
+ 2)LambdaTest
+ 3)PrintName
+ 4)PrintNameTest
  
+
  
