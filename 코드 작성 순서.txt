@@ -186,5 +186,7 @@
  3)PrintName
  4)PrintNameTest
  
-
- 
+22. exception
+ ①exceptionTest
+1)ExceptionTest
+2)ExceptionTest2
