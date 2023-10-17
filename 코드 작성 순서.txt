@@ -190,3 +190,10 @@
  ①exceptionTest
 1)ExceptionTest
 2)ExceptionTest2
+
+23.collectionTest
+ ①arrayListTest
+1)ArrayListTest
+2)User
+3)UserField
+4)User_Main
